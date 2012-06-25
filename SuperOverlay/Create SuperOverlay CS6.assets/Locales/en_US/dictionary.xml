@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asf locale="en_US" version="1.0" xmlns="http://ns.adobe.com/asf">
+  <str name="Configurator/Accordion/Canvas###29" translate="yes">
+    <val>Step 1</val>
+  </str>
+  <str name="Configurator/Accordion/Canvas###9" translate="yes">
+    <val>Accordion Pane 1</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###71" translate="yes">
+    <val>Run JavaScript</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###70" translate="yes">
+    <val>Script</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###74" translate="yes">
+    <val>Set Values for DPS</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###73" translate="yes">
+    <val>Set Values</val>
+  </str>
+  <str name="Configurator/Attribute/showNavBar/value###34" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###10" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###12" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###14" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###16" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###18" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###2" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###20" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###21" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###24" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###26" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###28" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###30" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###32" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###37" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###39" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###4" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###41" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###44" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###46" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###47" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###49" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###52" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###53" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###55" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###58" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###6" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###63" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###64" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###65" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###68" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###72" translate="yes">
+    <val>true</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###75" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###78" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###8" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###80" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###83" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###86" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###89" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###90" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###92" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###94" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###95" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###97" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Container/Accordion/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/Canvas/desc" translate="yes">
+    <val>Reset</val>
+  </str>
+  <str name="Configurator/Container/HBox/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/HDividedBox/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/TabNavigator/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/TabNavigator/dropListLabel###42" translate="yes">
+    <val>Select a page:</val>
+  </str>
+  <str name="Configurator/Container/VBox/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Container/VDividedBox/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###1" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###11" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###13" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###17" translate="yes">
+    <val>Test</val>
+  </str>
+  <str name="Configurator/key_###19" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###22" translate="yes">
+    <val>Create an Overlay that can sit on top of (nearly) any other interactive element, aka the SuperOverlay.</val>
+  </str>
+  <str name="Configurator/key_###25" translate="yes">
+    <val>1. Step</val>
+  </str>
+  <str name="Configurator/key_###27" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###33" translate="yes">
+    <val>Select ONE Object or object that is a group first.</val>
+  </str>
+  <str name="Configurator/key_###35" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###36" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###38" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###40" translate="yes">
+    <val>Step 2</val>
+  </str>
+  <str name="Configurator/key_###45" translate="yes">
+    <val>Step 2</val>
+  </str>
+  <str name="Configurator/key_###5" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###50" translate="yes">
+    <val>— Autoplay— Deselect "Loop"— Deselect "Fade Over"</val>
+  </str>
+  <str name="Configurator/key_###51" translate="yes">
+    <val>Reset</val>
+  </str>
+  <str name="Configurator/key_###56" translate="yes">
+    <val>Select SuperOverlay first.</val>
+  </str>
+  <str name="Configurator/key_###59" translate="yes">
+    <val>Settings</val>
+  </str>
+  <str name="Configurator/key_###66" translate="yes">
+    <val>1. Select one Object</val>
+  </str>
+  <str name="Configurator/key_###69" translate="yes">
+    <val>2. Set Values</val>
+  </str>
+  <str name="Configurator/key_###7" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###76" translate="yes">
+    <val>script/setDPSvalues_CS6.jsx</val>
+  </str>
+  <str name="Configurator/key_###77" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###81" translate="yes">
+    <val>— Autoplay— No Looping— No Crossfade</val>
+  </str>
+  <str name="Configurator/key_###84" translate="yes">
+    <val>Finish</val>
+  </str>
+  <str name="Configurator/key_###93" translate="yes">
+    <val>Optional</val>
+  </str>
+  <str name="Configurator/key_###96" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/TabNavigator/Canvas###15" translate="yes">
+    <val>Tab 1</val>
+  </str>
+  <str name="Configurator/TabNavigator/Canvas###3" translate="yes">
+    <val>Tab 1</val>
+  </str>
+  <str name="Configurator/TabNavigator/Canvas###43" translate="yes">
+    <val>Tab 1</val>
+  </str>
+  <str name="Configurator/watermark/htmlText" translate="yes">
+    <val>Created By &lt;a href='http://digitalpublishing.tumblr.com' target='_blank'&gt;Johannes Henseler&lt;/a&gt; using &lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;Configurator&lt;/a&gt;</val>
+  </str>
+  <str name="Configurator/watermark/htmlText###62" translate="yes">
+    <val>&lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;Created with Configurator&lt;/a&gt;</val>
+  </str>
+  <str name="Configurator/watermark/width" translate="yes">
+    <val>201</val>
+  </str>
+  <str name="Configurator/watermark/width###61" translate="yes">
+    <val>108</val>
+  </str>
+  <str name="Configurator/watermark/x" translate="yes">
+    <val>19</val>
+  </str>
+  <str name="Configurator/watermark/x###60" translate="yes">
+    <val>56</val>
+  </str>
+  <str name="Configurator/Widget/HRule/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/HRule/desc###85" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/HTML/backwardToolTip" translate="yes">
+    <val>Go back to previous page</val>
+  </str>
+  <str name="Configurator/Widget/HTML/browseListToolTip" translate="yes">
+    <val>Show the history list</val>
+  </str>
+  <str name="Configurator/Widget/HTML/desc" translate="yes">
+    <val>HTML</val>
+  </str>
+  <str name="Configurator/Widget/HTML/escCloseText" translate="yes">
+    <val>Esc key to close</val>
+  </str>
+  <str name="Configurator/Widget/HTML/forwardToolTip" translate="yes">
+    <val>Go forward to next page</val>
+  </str>
+  <str name="Configurator/Widget/HTML/homeText" translate="yes">
+    <val>Home</val>
+  </str>
+  <str name="Configurator/Widget/HTML/loadingText" translate="yes">
+    <val>Connecting...</val>
+  </str>
+  <str name="Configurator/Widget/HTML/locationTextToolTip" translate="yes">
+    <val>Input a URL and click enter to go to that URL</val>
+  </str>
+  <str name="Configurator/Widget/HTML/netUnAvailablePromptDetail" translate="yes">
+    <val>To continue ensure that you are connected to the Internet and that your preferences allow services to connect to the Internet, and ensure that the requested URL {0} is available.</val>
+  </str>
+  <str name="Configurator/Widget/HTML/netUnAvailablePromptTitle" translate="yes">
+    <val>No Internet connection detected, or the requested address could not be found.</val>
+  </str>
+  <str name="Configurator/Widget/HTML/offlinePromptDetail" translate="yes">
+    <val>To continue ensure that you are connected to the Internet and that your preferences allow services to connect to the Internet.</val>
+  </str>
+  <str name="Configurator/Widget/HTML/offlinePromptTitle" translate="yes">
+    <val>No Internet Connection Detected</val>
+  </str>
+  <str name="Configurator/Widget/HTML/reloadLabel" translate="yes">
+    <val>Reload</val>
+  </str>
+  <str name="Configurator/Widget/HTML/reloadText" translate="yes">
+    <val>Click to test connection</val>
+  </str>
+  <str name="Configurator/Widget/Text/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###23" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###31" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###48" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###54" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###57" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###67" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###79" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###82" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###91" translate="yes">
+    <val/>
+  </str>
+  <str name="Main/Window/Folio Overlays/desc" translate="yes">
+    <val>Folio Overlays</val>
+  </str>
+  <str name="Main/Window/Folio Overlays/name" translate="yes">
+    <val>Folio Overlays</val>
+  </str>
+  <str name="Object States Panel Menu/Delete State/desc" translate="yes">
+    <val>Delete State</val>
+  </str>
+  <str name="Object States Panel Menu/Delete State/name" translate="yes">
+    <val>Revert Object</val>
+  </str>
+  <str name="Object States Panel Menu/New State/desc" translate="yes">
+    <val>Convert to Slideshow (MSO)</val>
+  </str>
+  <str name="Object States Panel Menu/New State/desc###88" translate="yes">
+    <val>Convert to Overlay (MSO)</val>
+  </str>
+  <str name="Object States Panel Menu/New State/name" translate="yes">
+    <val>Convert to Slideshow (MSO)</val>
+  </str>
+  <str name="Object States Panel Menu/New State/name###87" translate="yes">
+    <val>Convert to Overlay (MSO)</val>
+  </str>
+</asf>

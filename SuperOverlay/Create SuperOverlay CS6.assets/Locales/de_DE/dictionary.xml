@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asf locale="de_DE" version="1.0" xmlns="http://ns.adobe.com/asf">
+  <str name="Configurator/ActionScript/ScriptFile/desc###74" translate="yes">
+    <val>Run JavaScript File</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###73" translate="yes">
+    <val>Werte setzen</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###21" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###63" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###64" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###65" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###68" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###75" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###80" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###86" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###90" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###92" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###94" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/key_###22" translate="yes">
+    <val>Ein SuperOverlay kann über (fast) jedem anderen Overlay sitzen (Reihenfolge in InDesign bestimmt)</val>
+  </str>
+  <str name="Configurator/key_###66" translate="yes">
+    <val>1. Ein Objekt auswählen</val>
+  </str>
+  <str name="Configurator/key_###69" translate="yes">
+    <val>2. Werte einstellen</val>
+  </str>
+  <str name="Configurator/key_###76" translate="yes">
+    <val>script/setDPSvalues.jsx</val>
+  </str>
+  <str name="Configurator/key_###81" translate="yes">
+    <val>— Automatisch abspielen— Keine Wiederholung— Kein Überblenden</val>
+  </str>
+  <str name="Configurator/key_###93" translate="yes">
+    <val>Optional</val>
+  </str>
+  <str name="Configurator/watermark/htmlText" translate="yes">
+    <val>Erstellt von &lt;a href='http://digitalpublishing.tumblr.com' target='_blank'&gt;Johannes Henseler&lt;/a&gt; mit &lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;Configurator&lt;/a&gt;</val>
+  </str>
+  <str name="Configurator/watermark/width" translate="yes">
+    <val>192</val>
+  </str>
+  <str name="Configurator/watermark/x" translate="yes">
+    <val>28</val>
+  </str>
+  <str name="Configurator/Widget/HRule/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/HRule/desc###85" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###67" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###79" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc###91" translate="yes">
+    <val/>
+  </str>
+  <str name="Main/Window/Folio Overlays/desc" translate="yes">
+    <val>Folio Overlays</val>
+  </str>
+  <str name="Main/Window/Folio Overlays/name" translate="yes">
+    <val>Folio Overlays</val>
+  </str>
+  <str name="Object States Panel Menu/Delete State/desc" translate="yes">
+    <val>Objekt zurückwandeln</val>
+  </str>
+  <str name="Object States Panel Menu/Delete State/name" translate="yes">
+    <val>Zurückwandeln</val>
+  </str>
+  <str name="Object States Panel Menu/New State/desc" translate="yes">
+    <val>New State</val>
+  </str>
+  <str name="Object States Panel Menu/New State/name" translate="yes">
+    <val>In Diashow umandeln (Objektstatus)</val>
+  </str>
+</asf>
