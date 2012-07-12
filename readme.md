@@ -22,8 +22,8 @@ Authors
 These panels (currently one) is based [on a blog post by Johannes Henseler](http://digitalpublishing.tumblr.com/post/10161880827/creating-super-overlays-that-overlay-other). To make the process more easily, a panel comes in handy.
 The script in the first panel (Create Superoverlay) was vastly improved by Uwe Laubender.
 
-Licence
--------
+Licence (MIT licence)
+---------------------
 
 Copyright (C) 2012 Johannes Henseler
 
