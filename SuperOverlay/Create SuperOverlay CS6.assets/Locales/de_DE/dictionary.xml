@@ -58,13 +58,13 @@
     <val>Optional</val>
   </str>
   <str name="Configurator/watermark/htmlText" translate="yes">
-    <val>Erstellt von &lt;a href='http://digitalpublishing.tumblr.com' target='_blank'&gt;Johannes Henseler&lt;/a&gt; mit &lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;Configurator&lt;/a&gt;</val>
+    <val>&lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;Mit Configurator erstellt&lt;/a&gt;</val>
   </str>
   <str name="Configurator/watermark/width" translate="yes">
-    <val>192</val>
+    <val>117</val>
   </str>
   <str name="Configurator/watermark/x" translate="yes">
-    <val>28</val>
+    <val>103</val>
   </str>
   <str name="Configurator/Widget/HRule/desc" translate="yes">
     <val/>

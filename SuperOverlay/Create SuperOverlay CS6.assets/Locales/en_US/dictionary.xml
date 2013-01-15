@@ -247,7 +247,7 @@
     <val/>
   </str>
   <str name="Configurator/key_###81" translate="yes">
-    <val>— Autoplay— No Looping— No Crossfade</val>
+    <val>— Autoplay— No Looping— No Crossfade— Format: Vector</val>
   </str>
   <str name="Configurator/key_###84" translate="yes">
     <val>Finish</val>
@@ -268,19 +268,19 @@
     <val>Tab 1</val>
   </str>
   <str name="Configurator/watermark/htmlText" translate="yes">
-    <val>Created By &lt;a href='http://digitalpublishing.tumblr.com' target='_blank'&gt;Johannes Henseler&lt;/a&gt; using &lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;Configurator&lt;/a&gt;</val>
+    <val>&lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;Created with Configurator&lt;/a&gt;</val>
   </str>
   <str name="Configurator/watermark/htmlText###62" translate="yes">
     <val>&lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;Created with Configurator&lt;/a&gt;</val>
   </str>
   <str name="Configurator/watermark/width" translate="yes">
-    <val>201</val>
+    <val>125</val>
   </str>
   <str name="Configurator/watermark/width###61" translate="yes">
     <val>108</val>
   </str>
   <str name="Configurator/watermark/x" translate="yes">
-    <val>19</val>
+    <val>95</val>
   </str>
   <str name="Configurator/watermark/x###60" translate="yes">
     <val>56</val>

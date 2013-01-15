@@ -2,7 +2,9 @@
 <gpc defaultLocale="en_US" version="3" keySequence="97" currentLocale="en_US">
   <product appid="IDSN" version="08" name="InDesign CS6"/>
   <target id="IDSN-08"/>
-  <ConfiguratorPanel name="Create SuperOverlay" width="220" height="344" minWidth="220" init="doInit" close="doClose" extensionId="com.configurator.extension" extensionVersion="1.0.1" menuName="Create SuperOverlay" aboutBox="This panel was made by Johannes Henseler, Author of the Blog &quot;Secrets and Happiness of Digital Publishing&quot;.&lt;br />&lt;br />The script in this panel (to set the values) was vastly improved by Uwe Laubender.&lt;br />&lt;br />This panel is released under MIT-licence.&lt;br />More info here: https://github.com/frischmilch/DPS-Panels&lt;br />&lt;br />If you have any questions, provide them to frisch@frischmil.ch.&lt;br/>&lt;p>Erstellt von &lt;a href='http://digitalpublishing.tumblr.com' target='_blank'>Johannes Henseler&lt;/a> mit &lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'>Configurator&lt;/a>&lt;/p>" maxWidth="220" maxHeight="344" normalIcon="icon/superoverlay.png" rollOverIcon="icon/superoverlay_rollover.png" minHeight="344">
+  <ConfiguratorPanel name="Create SuperOverlay" width="220" height="364" minWidth="220" init="doInit" close="doClose" extensionId="com.configurator.extension" extensionVersion="1.0.2" menuName="Create SuperOverlay" aboutBox="" maxWidth="220" maxHeight="364" normalIcon="icon/superoverlay.png" rollOverIcon="icon/superoverlay_rollover.png" minHeight="364">
+    <extensionDescription><![CDATA[This panel creates an overlay and sets the parameters for you so it sits ontop of other overlays]]></extensionDescription>
+    <extensionAuthor><![CDATA[Johannes Henseler]]></extensionAuthor>
     <onInit><![CDATA[]]></onInit>
     <onClose><![CDATA[]]></onClose>
     <eventListeners>
@@ -16,9 +18,6 @@
     <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc" styleName="scopeTextArea" width="200" height="46" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###21" fontSize="10" fontWeight="bold" fontStyle="normal" textDecoration="none" textAlign="center" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="10">
       <text><![CDATA[$$$/Configurator/key_###22]]></text>
     </text>
-    <watermark height="17" x="$$$/Configurator/watermark/x" width="$$$/Configurator/watermark/width" bottom="0" right="0" y="311">
-      <htmlText><![CDATA[$$$/Configurator/watermark/htmlText]]></htmlText>
-    </watermark>
     <hrule _itemId="widget_hrule" toolTip="$$$/Configurator/Widget/HRule/desc" width="200" height="1" cfgVisible="$$$/Configurator/Attribute/visible/value###63" x="10" y="64"/>
     <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc" styleName="scopeTextArea" width="200" height="22" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###65" fontSize="10" color="0x999999" fontWeight="bold" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="73">
       <text><![CDATA[$$$/Configurator/key_###66]]></text>
@@ -33,27 +32,27 @@
     <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###67" styleName="scopeTextArea" width="200" height="21" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###68" fontSize="10" color="0x999999" fontWeight="bold" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="134">
       <text><![CDATA[$$$/Configurator/key_###69]]></text>
     </text>
-    <id_command _itemId="9999996" commandID="9999996" label="$$$/Main/Window/Folio Overlays/name" toolTip="$$$/Main/Window/Folio Overlays/desc" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###90" x="10" y="269" width="96" height="33">
-      <eventListeners>
-        <function id="onClick" actionType="jsfunction" jsFunctionName="id_invoke_command">
-          <param id="commandID"/>
-        </function>
-      </eventListeners>
-    </id_command>
-    <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###79" styleName="scopeTextArea" width="187" height="46" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###80" fontSize="10" color="0x999999" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="23" y="154">
+    <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###79" styleName="scopeTextArea" width="187" height="63" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###80" fontSize="10" color="0x999999" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="23" y="154">
       <text><![CDATA[$$$/Configurator/key_###81]]></text>
     </text>
-    <id_script_file _itemId="id_script_file" label="$$$/Configurator/ActionScript/ScriptFile/name###73" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###74" cfgVisible="$$$/Configurator/Attribute/visible/value###75" icon="id_script_file" overIcon="id_script_file_r" fileUrl="$$$/Configurator/key_###76" showIcon="false" x="10" y="205" width="200" height="33"/>
-    <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###91" styleName="scopeTextArea" width="200" height="22" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###92" fontSize="10" color="0x999999" fontWeight="bold" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="246">
+    <id_script_file _itemId="id_script_file" label="$$$/Configurator/ActionScript/ScriptFile/name###73" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###74" cfgVisible="$$$/Configurator/Attribute/visible/value###75" icon="id_script_file" overIcon="id_script_file_r" fileUrl="$$$/Configurator/key_###76" showIcon="false" x="10" y="221" width="200" height="33"/>
+    <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###91" styleName="scopeTextArea" width="200" height="22" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###92" fontSize="10" color="0x999999" fontWeight="bold" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="263">
       <text><![CDATA[$$$/Configurator/key_###93]]></text>
     </text>
-    <hrule _itemId="widget_hrule" toolTip="$$$/Configurator/Widget/HRule/desc###85" width="200" height="13" cfgVisible="$$$/Configurator/Attribute/visible/value###86" x="10" y="310"/>
-    <id_command _itemId="83607" commandID="83607" label="$$$/Object States Panel Menu/Delete State/name" toolTip="$$$/Object States Panel Menu/Delete State/desc" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###94" x="114" y="269" width="96" height="33">
+    <id_command _itemId="9999996" commandID="9999996" label="$$$/Main/Window/Folio Overlays/name" toolTip="$$$/Main/Window/Folio Overlays/desc" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###90" x="10" y="286" width="96" height="33">
       <eventListeners>
         <function id="onClick" actionType="jsfunction" jsFunctionName="id_invoke_command">
           <param id="commandID"/>
         </function>
       </eventListeners>
     </id_command>
+    <id_command _itemId="83607" commandID="83607" label="$$$/Object States Panel Menu/Delete State/name" toolTip="$$$/Object States Panel Menu/Delete State/desc" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###94" x="114" y="286" width="96" height="33">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="id_invoke_command">
+          <param id="commandID"/>
+        </function>
+      </eventListeners>
+    </id_command>
+    <hrule _itemId="widget_hrule" toolTip="$$$/Configurator/Widget/HRule/desc###85" width="200" height="13" cfgVisible="$$$/Configurator/Attribute/visible/value###86" x="10" y="327"/>
   </ConfiguratorPanel>
 </gpc>
