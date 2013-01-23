@@ -150,6 +150,12 @@
   <str name="Configurator/Attribute/visible/value###97" translate="yes">
     <val>True</val>
   </str>
+  <str name="Configurator/Attribute/visible/value###98" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###99" translate="yes">
+    <val>True</val>
+  </str>
   <str name="Configurator/Container/Accordion/desc" translate="yes">
     <val/>
   </str>
@@ -176,6 +182,9 @@
   </str>
   <str name="Configurator/key_###1" translate="yes">
     <val/>
+  </str>
+  <str name="Configurator/key_###100" translate="yes">
+    <val>1.0.3. Created with Adobe Configurator.</val>
   </str>
   <str name="Configurator/key_###11" translate="yes">
     <val/>

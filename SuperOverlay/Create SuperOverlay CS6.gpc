@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gpc defaultLocale="en_US" version="3" keySequence="97" currentLocale="en_US">
+<gpc defaultLocale="en_US" version="3" keySequence="100" currentLocale="en_US">
   <product appid="IDSN" version="08" name="InDesign CS6"/>
   <target id="IDSN-08"/>
-  <ConfiguratorPanel name="Create SuperOverlay" width="220" height="364" minWidth="220" init="doInit" close="doClose" extensionId="com.configurator.extension" extensionVersion="1.0.2" menuName="Create SuperOverlay" aboutBox="" maxWidth="220" maxHeight="364" normalIcon="icon/superoverlay.png" rollOverIcon="icon/superoverlay_rollover.png" minHeight="364">
+  <ConfiguratorPanel name="Create SuperOverlay" width="230" height="364" minWidth="230" init="doInit" close="doClose" extensionId="com.configurator.extension" extensionVersion="1.0.3" menuName="Create SuperOverlay" aboutBox="" maxWidth="230" maxHeight="364" normalIcon="icon/superoverlay.png" rollOverIcon="icon/superoverlay_rollover.png" minHeight="364">
     <extensionDescription><![CDATA[This panel creates an overlay and sets the parameters for you so it sits ontop of other overlays]]></extensionDescription>
     <extensionAuthor><![CDATA[Johannes Henseler]]></extensionAuthor>
     <onInit><![CDATA[]]></onInit>
@@ -15,27 +15,20 @@
         <param id="onClose"/>
       </function>
     </eventListeners>
-    <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc" styleName="scopeTextArea" width="200" height="46" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###21" fontSize="10" fontWeight="bold" fontStyle="normal" textDecoration="none" textAlign="center" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="10">
+    <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc" styleName="scopeTextArea" width="210" height="46" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###21" fontSize="10" fontWeight="bold" fontStyle="normal" textDecoration="none" textAlign="center" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="10">
       <text><![CDATA[$$$/Configurator/key_###22]]></text>
     </text>
-    <hrule _itemId="widget_hrule" toolTip="$$$/Configurator/Widget/HRule/desc" width="200" height="1" cfgVisible="$$$/Configurator/Attribute/visible/value###63" x="10" y="64"/>
+    <hrule _itemId="widget_hrule" toolTip="$$$/Configurator/Widget/HRule/desc" width="210" height="1" cfgVisible="$$$/Configurator/Attribute/visible/value###63" x="10" y="64"/>
     <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc" styleName="scopeTextArea" width="200" height="22" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###65" fontSize="10" color="0x999999" fontWeight="bold" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="73">
       <text><![CDATA[$$$/Configurator/key_###66]]></text>
     </text>
-    <id_command _itemId="83605" commandID="83605" label="$$$/Object States Panel Menu/New State/name" toolTip="$$$/Object States Panel Menu/New State/desc" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###64" x="10" y="93" width="200" height="33">
-      <eventListeners>
-        <function id="onClick" actionType="jsfunction" jsFunctionName="id_invoke_command">
-          <param id="commandID"/>
-        </function>
-      </eventListeners>
-    </id_command>
     <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###67" styleName="scopeTextArea" width="200" height="21" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###68" fontSize="10" color="0x999999" fontWeight="bold" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="134">
       <text><![CDATA[$$$/Configurator/key_###69]]></text>
     </text>
     <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###79" styleName="scopeTextArea" width="187" height="63" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###80" fontSize="10" color="0x999999" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="23" y="154">
       <text><![CDATA[$$$/Configurator/key_###81]]></text>
     </text>
-    <id_script_file _itemId="id_script_file" label="$$$/Configurator/ActionScript/ScriptFile/name###73" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###74" cfgVisible="$$$/Configurator/Attribute/visible/value###75" icon="id_script_file" overIcon="id_script_file_r" fileUrl="$$$/Configurator/key_###76" showIcon="false" x="10" y="221" width="200" height="33"/>
+    <id_script_file _itemId="id_script_file" label="$$$/Configurator/ActionScript/ScriptFile/name###73" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###74" cfgVisible="$$$/Configurator/Attribute/visible/value###75" icon="id_script_file" overIcon="id_script_file_r" fileUrl="$$$/Configurator/key_###76" showIcon="false" x="10" y="221" width="210" height="33"/>
     <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc###91" styleName="scopeTextArea" width="200" height="22" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###92" fontSize="10" color="0x999999" fontWeight="bold" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="263">
       <text><![CDATA[$$$/Configurator/key_###93]]></text>
     </text>
@@ -46,13 +39,23 @@
         </function>
       </eventListeners>
     </id_command>
-    <id_command _itemId="83607" commandID="83607" label="$$$/Object States Panel Menu/Delete State/name" toolTip="$$$/Object States Panel Menu/Delete State/desc" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###94" x="114" y="286" width="96" height="33">
+    <hrule _itemId="widget_hrule" toolTip="$$$/Configurator/Widget/HRule/desc###85" width="210" height="13" cfgVisible="$$$/Configurator/Attribute/visible/value###86" x="10" y="327"/>
+    <id_command _itemId="83605" commandID="83605" label="$$$/Object States Panel Menu/New State/name" toolTip="$$$/Object States Panel Menu/New State/desc" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###98" x="10" y="94" width="210" height="32">
       <eventListeners>
         <function id="onClick" actionType="jsfunction" jsFunctionName="id_invoke_command">
           <param id="commandID"/>
         </function>
       </eventListeners>
     </id_command>
-    <hrule _itemId="widget_hrule" toolTip="$$$/Configurator/Widget/HRule/desc###85" width="200" height="13" cfgVisible="$$$/Configurator/Attribute/visible/value###86" x="10" y="327"/>
+    <text _itemId="widget_text" toolTip="$$$/Configurator/Widget/Text/desc" styleName="scopeTextArea" width="210" height="16" backgroundAlpha="0" cfgVisible="$$$/Configurator/Attribute/visible/value###99" fontSize="10" fontWeight="normal" fontStyle="normal" textDecoration="none" textAlign="left" backgroundColor="16777215" borderColor="12040892" borderStyle="none" x="10" y="340">
+      <text><![CDATA[$$$/Configurator/key_###100]]></text>
+    </text>
+    <id_command _itemId="83607" commandID="83607" label="$$$/Object States Panel Menu/Delete State/name" toolTip="$$$/Object States Panel Menu/Delete State/desc" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###94" x="124" y="286" width="96" height="33">
+      <eventListeners>
+        <function id="onClick" actionType="jsfunction" jsFunctionName="id_invoke_command">
+          <param id="commandID"/>
+        </function>
+      </eventListeners>
+    </id_command>
   </ConfiguratorPanel>
 </gpc>

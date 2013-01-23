@@ -39,6 +39,15 @@
   <str name="Configurator/Attribute/visible/value###94" translate="yes">
     <val>True</val>
   </str>
+  <str name="Configurator/Attribute/visible/value###98" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###99" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/key_###100" translate="yes">
+    <val/>
+  </str>
   <str name="Configurator/key_###22" translate="yes">
     <val>Ein SuperOverlay kann über (fast) jedem anderen Overlay sitzen (Reihenfolge in InDesign bestimmt)</val>
   </str>
